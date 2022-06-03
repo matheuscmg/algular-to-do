@@ -1,0 +1,11 @@
+<h3>To-do list</h3>
+
+<ul>
+
+    <li *ngFor= "let item of items">{{item}}</li>
+
+</ul>
+
+{{tarefa}}
+<input type="text" [(ngModel)]="tarefa"/>
+<button>Add</button>
