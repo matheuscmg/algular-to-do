@@ -1,0 +1,5 @@
+comandos ng
+
+ng new NOME DO PROJETO
+
+na parta do projeto ng generate component component/first-component
